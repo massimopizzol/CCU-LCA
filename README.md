@@ -15,7 +15,7 @@ The supplementary materials to the article include the raw data:
 These are needed to run the scripts contained in this repository, for example if you want to reproduce the results of the paper. If you don't have access to the article or the files, you can get them from me directly, please send a request to [massimo@plan.aau.dk](mailto:massimo@plan.aau.dk)
 
 
-##The repository includes:
+## The repository includes:
 
 `CCU_2018_final_version.ipynb` (and `CCU_2018_final_version.py`) Python script to reproduce results of the LCA using the brightway2 LCA software. Imports the inventory in, performs LCA calculations and exports LCIA results, runs comparative Monte Carlo for the global warming impact category and exports results.
 
@@ -27,7 +27,7 @@ These are needed to run the scripts contained in this repository, for example if
 
 **Please get in touch** if you find any mistake or problem in running these scripts.
 
-##DOI and versions
+## DOI and versions
 
 Version identifier:
 DOI [to be added]()
