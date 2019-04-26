@@ -30,12 +30,10 @@ These are needed to run the scripts contained in this repository, for example if
 ## DOI and versions
 
 Version identifier:
-DOI [to be added]()
+[![DOI](https://zenodo.org/badge/183655891.svg)](https://zenodo.org/badge/latestdoi/183655891)
 
-You can cite all versions by using the DOI [to be added](). This DOI represents all versions, and will always resolve to the latest one. 
+You can cite all versions by using the concept DOI [10.5281/zenodo.2652361](https://doi.org/10.5281/zenodo.2652361) that represents all versions, and will always resolve to the latest one. 
 
-## Cite as
+However, it is recommended that you cite the specific version, for example for version 1.0:
 
-Pleas cite the specific version, for example for version 1.0:
-
-_Massimo Pizzol. (2019, Month Day). massimopizzol/CCU-LCA: First release (Version 1.0). Zenodo. http://doi.org/xxxx_
+_Massimo Pizzol. (2019, April 26). massimopizzol/CCU-LCA: Pre-publication release (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.2652362_
