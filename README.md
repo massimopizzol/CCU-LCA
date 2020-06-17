@@ -4,7 +4,7 @@
 
 This is the code used in the analysis presented in:
 
-_Thonemann N and Pizzol M, Consequential life cycle assessment of carbon capture and utilization technologies within the chemical industry,  Energy & Environmental Science (under review),_ [doi to be added]().
+_Thonemann N and Pizzol M, Consequential life cycle assessment of carbon capture and utilization technologies within the chemical industry,  Energy & Environmental Science (under review),_ [https://doi.org/10.1039/C9EE00914K](https://doi.org/10.1039/C9EE00914K).
 
 The supplementary materials to the article include the raw data: 
 
@@ -17,13 +17,16 @@ These are needed to run the scripts contained in this repository, for example if
 
 ## The repository includes:
 
+`CCU-UA_MCS_lt.csv` and `CCU-UA_MCS_nt.csv` inventory data formatted for input in brightway2.
+
 `CCU_2018_final_version.ipynb` (and `CCU_2018_final_version.py`) Python script to reproduce results of the LCA using the brightway2 LCA software. Imports the inventory in, performs LCA calculations and exports LCIA results, runs comparative Monte Carlo for the global warming impact category and exports results.
+
+`lci_to_bw2.py` A python script to import inventory tables in .csv directly into brightway2.
 
 `CCU_plots.R` R script used in generating the plots of the paper. 
 
 `CCU_Stat_analysis.R` R script with the statistical analysis of Monte Carlo results, mainly generating descriptive statistics and doing pairwise testing of different alternatives.
 
-`lci_to_bw2.py` A little python script to import inventory tables in .csv directly into brightway2.
 
 **Please get in touch** if you find any mistake or problem in running these scripts.
 
